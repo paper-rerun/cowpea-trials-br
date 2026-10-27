@@ -1,0 +1,23 @@
+{
+  "title": "Cowpea trials in North and Northeast Brazil: 2,541 results from 20 Embrapa publications",
+  "upload_type": "dataset",
+  "description": "2,541 trial results from 61 trials on cowpea (Vigna unguiculata, feijão-caupi) in the North and Northeast of Brazil, transcribed from the tables of 20 open-access Embrapa publications (1978-2023): pests (the leafhopper Empoasca kraemeri, Cerotoma leaf beetles, the black aphid Aphis craccivora, whitefly, the cowpea weevil Callosobruchus maculatus in storage, the green stink bug Nezara viridula), viruses (cowpea severe mosaic virus CPSMV, cowpea aphid-borne mosaic virus CABMV, cucumber mosaic virus CMV), web blight, Macrophomina phaseolina, root-knot nematode, rhizobium inoculation and fertilization, intercropping with maize, irrigation levels, plant density, cultivar and VCU trials and the quality of stored grain, in Piauí, Ceará, Maranhão, Pernambuco, Bahia, Sergipe, Alagoas, Pará, Roraima and Acre, with trial context (place, season, sowing date, water regime, cultivar, inoculation, design), measured variable and value, assessment time, and the page and table of origin. Each document was transcribed twice, independently, by AI agents, and every disagreement was settled against the PDF; a human reviewed the result before publication. Part of the Paper Rerun project (Open Tables).",
+  "creators": [
+    {
+      "name": "Tessaro, Filipe"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": [
+    "Vigna unguiculata",
+    "cowpea",
+    "feijão-caupi",
+    "Callosobruchus maculatus",
+    "cowpea severe mosaic virus",
+    "Northeast Brazil",
+    "Brazil",
+    "Embrapa",
+    "open data",
+    "AI agents"
+  ]
+}
