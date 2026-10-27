@@ -2,6 +2,8 @@
 
 English version: [README.md](README.md)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23694268.svg)](https://doi.org/10.5281/zenodo.23694268)
+
 2.541 resultados de 61 ensaios com feijão-caupi (*Vigna unguiculata*) no Norte e no Nordeste do Brasil, tirados das tabelas de 20 publicações de acesso aberto da Embrapa: pragas (a cigarrinha-verde *Empoasca kraemeri*, a vaquinha *Cerotoma*, o pulgão-preto *Aphis craccivora*, a mosca-branca, o caruncho *Callosobruchus maculatus* no armazém e o percevejo-verde *Nezara viridula*), viroses (mosaico-severo, CPSMV; mosaico-transmitido-por-pulgão, CABMV; mosaico-do-pepino, CMV), mela, *Macrophomina phaseolina* e nematoide-das-galhas, inoculação com rizóbio e adubação, consórcio com milho, lâminas de irrigação, densidade de plantas, ensaios de cultivares e de VCU (valor de cultivo e uso) e qualidade do grão armazenado. Cada linha é um número exatamente como foi impresso, com a página e a tabela de onde saiu, e aponta para o ensaio a que pertence.
 
 O feijão-caupi é um dos principais alimentos do Norte e do Nordeste do Brasil, como lembra a introdução de gualter2008. Boa parte dos dados de ensaios sobre pragas, doenças e manejo da cultura está em boletins da Embrapa e artigos de periódicos. O mais antigo é de 1978, e cinco são documentos escaneados com camada de texto ruidosa. Este dataset torna 20 deles pesquisáveis e comparáveis, do Acre, de Roraima e do Pará ao Maranhão, Piauí, Ceará, Pernambuco, Bahia, Sergipe e Alagoas.

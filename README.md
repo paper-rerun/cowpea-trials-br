@@ -2,6 +2,8 @@
 
 Versão em português: [README.pt-BR.md](README.pt-BR.md)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23694268.svg)](https://doi.org/10.5281/zenodo.23694268)
+
 2,541 trial results from 61 trials on cowpea (*Vigna unguiculata*, feijão-caupi) in the North and Northeast of Brazil, taken from the tables of 20 open-access Embrapa publications: pests (the leafhopper *Empoasca kraemeri*, *Cerotoma* leaf beetles, the black aphid *Aphis craccivora*, whitefly, the cowpea weevil *Callosobruchus maculatus* in storage and the green stink bug *Nezara viridula*), viruses (cowpea severe mosaic virus, CPSMV; cowpea aphid-borne mosaic virus, CABMV; cucumber mosaic virus, CMV), web blight, *Macrophomina phaseolina* and root-knot nematode, rhizobium inoculation and fertilization, intercropping with maize, irrigation levels, plant density, cultivar and VCU (value for cultivation and use) trials, and the quality of stored grain. Each row is one number exactly as printed, with the page and table it came from, and points to the trial it belongs to.
 
 Cowpea is one of the main foods in the North and Northeast of Brazil, as the introduction of gualter2008 notes. Much of the trial evidence on its pests, diseases and management sits in Embrapa bulletins and journal articles, the oldest from 1978 and five of them scans with a noisy text layer. This dataset makes 20 of them searchable and comparable, from Acre, Roraima and Pará to Maranhão, Piauí, Ceará, Pernambuco, Bahia, Sergipe and Alagoas.
